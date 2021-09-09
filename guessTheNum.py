@@ -1,4 +1,4 @@
-#                 GUESS THE NUMBER GAME
+#                GUESS THE NUMBER GAME
 import random
 
 def guessmain(nog):
